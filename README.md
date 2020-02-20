@@ -5,7 +5,7 @@
     documenting APIs, asynchronous (event-driven) programming in a Graphical Use Interface (GUI) framework, code maintenance 
     and version management using CVS, software development using Eclipse, introduction to building software on mobile platforms, 
     introduction to multithreading and network programming, object persistence.
-    	Topics:
+    Topics:
        - Inheritance, interfaces, abstract classes, polymorphism
        - Unified Modeling Language (UML)
        - Essential design patterns, including Singleton, Model-View-Controller (MVC),
